@@ -1,9 +1,13 @@
 package com.example.edittext;
 
 import android.app.Activity;
+/**
+ * 
+ * @author dyy
+ *
+ */
+public class ssse {
 
-public class ssse extends Activity {
-
- 
+    public String Tag="text";
 	
 }
