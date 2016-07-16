@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 		              Log.i("TAG", "输入文本之前的状态");  
 		          temp = s;  
 		      }  
-		 //田野
+		 //田野dssd
 		      @Override  
 		      public void onTextChanged(CharSequence s, int start, int before, int count) {  
 		          if (DEBUG)  
